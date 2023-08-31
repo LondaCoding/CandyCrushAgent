@@ -1,0 +1,3 @@
+D:/Juano/repos/CandyCrushAgent/build/CMakeFiles/CandyCrushAgent.dir
+D:/Juano/repos/CandyCrushAgent/build/CMakeFiles/ALL_BUILD.dir
+D:/Juano/repos/CandyCrushAgent/build/CMakeFiles/ZERO_CHECK.dir

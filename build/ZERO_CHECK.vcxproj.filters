@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Juano\repos\CandyCrushAgent\build\CMakeFiles\0cdab30734e9ea3e1a60321b2f4caf95\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CCB6F6DB-6DD7-37FD-8C79-B123BBC12DD7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
